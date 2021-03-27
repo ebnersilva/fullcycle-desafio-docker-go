@@ -43,6 +43,10 @@ Tip: In the introduction video about Docker when we talk about the layered file 
 
 Have fun
 
+## :rocket: Image on Docker Hub
+
+- **`https://hub.docker.com/repository/docker/ebnersilva/codeeducation`**
+
 ## :memo: Technologies
 
 - :memo: **`Docker`**
