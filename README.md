@@ -54,7 +54,7 @@ Have fun
 
 ## :memo: License
 
-This project use a MIT license. See the file [LICENSE](LICENSE) to more details.
+This project use a MIT license. See the file [LICENSE](LICENSE.md) to more details.
 
 ---
 
